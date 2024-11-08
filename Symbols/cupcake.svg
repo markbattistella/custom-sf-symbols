@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Generator: Apple Native CoreSVG 232.5-->
+<!--Generator: Apple Native CoreSVG 341-->
 <!DOCTYPE svg
 PUBLIC "-//W3C//DTD SVG 1.1//EN"
        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3300" height="2200">
- <!--glyph: "", point size: 100.0, font version: "19.2d2e1", template writer version: "128"-->
- <style>.monochrome-0 {-sfsymbols-motion-group:5}
-.monochrome-1 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-2 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-3 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-4 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-5 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-6 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-7 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.monochrome-8 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4}
-.monochrome-9 {-sfsymbols-motion-group:3}
-.monochrome-10 {-sfsymbols-motion-group:2}
-.monochrome-11 {-sfsymbols-motion-group:1}
-.monochrome-12 {-sfsymbols-motion-group:1}
-.monochrome-13 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.monochrome-14 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.monochrome-15 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.monochrome-16 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.monochrome-17 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3300 2200">
+ <!--glyph: "", point size: 100.0, font version: "20.0d10e1", template writer version: "138.0.0"-->
+ <style>.monochrome-0 {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-1 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-2 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-3 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-4 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-5 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-6 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-7 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-8 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-9 {-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-10 {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-11 {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-12 {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-13 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-14 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-15 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-16 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.monochrome-17 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
 
-.multicolor-0:systemCyanColor {-sfsymbols-motion-group:5}
-.multicolor-1:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-2:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-3:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-4:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-5:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-6:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-7:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.multicolor-8:custom {fill:#662113;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4}
-.multicolor-9:custom {fill:#C1694F;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3}
-.multicolor-10:custom {fill:#FFE8B6;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:2}
-.multicolor-11:custom {fill:#FFCC4D;-sfsymbols-motion-group:1}
-.multicolor-12:custom {fill:#FFCC4D;-sfsymbols-motion-group:1}
-.multicolor-13:systemIndigoColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.multicolor-14:systemOrangeColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.multicolor-15:systemGreenColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.multicolor-16:systemBlueColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.multicolor-17:systemPinkColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
+.multicolor-0:systemCyanColor {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-1:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-2:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-3:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-4:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-5:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-6:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-7:systemBlueColor {opacity:0.5;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-8:custom {fill:#662113;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-9:custom {fill:#C1694F;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-10:custom {fill:#FFE8B6;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-11:custom {fill:#FFCC4D;-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-12:custom {fill:#FFCC4D;-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-13:systemIndigoColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-14:systemOrangeColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-15:systemGreenColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-16:systemBlueColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.multicolor-17:systemPinkColor {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
 
-.hierarchical-0:primary {-sfsymbols-motion-group:5}
-.hierarchical-1:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-2:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-3:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-4:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-5:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-6:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-7:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5}
-.hierarchical-8:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4}
-.hierarchical-9:tertiary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3}
-.hierarchical-10:primary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:2}
-.hierarchical-11:primary {-sfsymbols-motion-group:1}
-.hierarchical-12:primary {-sfsymbols-motion-group:1}
-.hierarchical-13:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.hierarchical-14:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.hierarchical-15:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.hierarchical-16:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
-.hierarchical-17:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0}
+.hierarchical-0:primary {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-1:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-2:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-3:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-4:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-5:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-6:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-7:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-8:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-9:tertiary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-10:primary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-11:primary {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-12:primary {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-13:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-14:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-15:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-16:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
+.hierarchical-17:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-265d57584a9b4254}
 
 .SFSymbolsPreviewWireframe {fill:none;opacity:1.0;stroke:black;stroke-width:0.5}
 </style>
@@ -79,13 +79,13 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:middle;" transform="matrix(1 0 0 1 2933.4 322)">Black</text>
   <line style="fill:none;stroke:black;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1903" y2="1903"/>
   <g transform="matrix(0.2 0 0 0.2 263 1933)">
-   <path d="m46.2402 4.15039c21.5332 0 39.4531-17.8711 39.4531-39.4043s-17.9688-39.4043-39.502-39.4043c-21.4844 0-39.3555 17.8711-39.3555 39.4043s17.9199 39.4043 39.4043 39.4043Zm0-7.42188c-17.7246 0-31.8848-14.209-31.8848-31.9824s14.1113-31.9824 31.8359-31.9824c17.7734 0 32.0312 14.209 32.0312 31.9824s-14.209 31.9824-31.9824 31.9824Zm-17.9688-31.9824c0 2.14844 1.51367 3.61328 3.75977 3.61328h10.498v10.5957c0 2.19727 1.46484 3.71094 3.61328 3.71094 2.24609 0 3.71094-1.51367 3.71094-3.71094v-10.5957h10.5957c2.19727 0 3.71094-1.46484 3.71094-3.61328 0-2.19727-1.51367-3.71094-3.71094-3.71094h-10.5957v-10.5469c0-2.24609-1.46484-3.75977-3.71094-3.75977-2.14844 0-3.61328 1.51367-3.61328 3.75977v10.5469h-10.498c-2.24609 0-3.75977 1.51367-3.75977 3.71094Z"/>
+   <path d="m46.2402 4.15039c21.7773 0 39.4531-17.627 39.4531-39.4043s-17.6758-39.4043-39.4531-39.4043c-21.7285 0-39.4043 17.627-39.4043 39.4043s17.6758 39.4043 39.4043 39.4043Zm0-7.42188c-17.6758 0-31.9336-14.3066-31.9336-31.9824s14.2578-31.9824 31.9336-31.9824 31.9824 14.3066 31.9824 31.9824-14.3066 31.9824-31.9824 31.9824Zm-17.9688-31.9824c0 2.14844 1.51367 3.61328 3.75977 3.61328h10.498v10.5957c0 2.19727 1.46484 3.71094 3.61328 3.71094 2.24609 0 3.71094-1.51367 3.71094-3.71094v-10.5957h10.5957c2.19727 0 3.71094-1.46484 3.71094-3.61328 0-2.19727-1.51367-3.71094-3.71094-3.71094h-10.5957v-10.5469c0-2.24609-1.46484-3.75977-3.71094-3.75977-2.14844 0-3.61328 1.51367-3.61328 3.75977v10.5469h-10.498c-2.24609 0-3.75977 1.51367-3.75977 3.71094Z"/>
   </g>
   <g transform="matrix(0.2 0 0 0.2 281.506 1933)">
-   <path d="m58.5449 14.5508c27.2461 0 49.8047-22.6074 49.8047-49.8047 0-27.2461-22.6074-49.8047-49.8535-49.8047-27.1973 0-49.7559 22.5586-49.7559 49.8047 0 27.1973 22.6074 49.8047 49.8047 49.8047Zm0-8.30078c-23.0469 0-41.4551-18.457-41.4551-41.5039s18.3594-41.5039 41.4062-41.5039 41.5527 18.457 41.5527 41.5039-18.457 41.5039-41.5039 41.5039Zm-22.6562-41.5039c0 2.39258 1.66016 4.00391 4.15039 4.00391h14.3555v14.4043c0 2.44141 1.66016 4.15039 4.05273 4.15039 2.44141 0 4.15039-1.66016 4.15039-4.15039v-14.4043h14.4043c2.44141 0 4.15039-1.61133 4.15039-4.00391 0-2.44141-1.70898-4.15039-4.15039-4.15039h-14.4043v-14.3555c0-2.49023-1.70898-4.19922-4.15039-4.19922-2.39258 0-4.05273 1.70898-4.05273 4.19922v14.3555h-14.3555c-2.49023 0-4.15039 1.70898-4.15039 4.15039Z"/>
+   <path d="m58.5449 14.5508c27.4902 0 49.8047-22.3145 49.8047-49.8047s-22.3145-49.8047-49.8047-49.8047-49.8047 22.3145-49.8047 49.8047 22.3145 49.8047 49.8047 49.8047Zm0-8.30078c-22.9492 0-41.5039-18.5547-41.5039-41.5039s18.5547-41.5039 41.5039-41.5039 41.5039 18.5547 41.5039 41.5039-18.5547 41.5039-41.5039 41.5039Zm-22.6562-41.5039c0 2.39258 1.66016 4.00391 4.15039 4.00391h14.3555v14.4043c0 2.44141 1.66016 4.15039 4.05273 4.15039 2.44141 0 4.15039-1.66016 4.15039-4.15039v-14.4043h14.4043c2.44141 0 4.15039-1.61133 4.15039-4.00391 0-2.44141-1.70898-4.15039-4.15039-4.15039h-14.4043v-14.3555c0-2.49023-1.70898-4.19922-4.15039-4.19922-2.39258 0-4.05273 1.70898-4.05273 4.19922v14.3555h-14.3555c-2.49023 0-4.15039 1.70898-4.15039 4.15039Z"/>
   </g>
   <g transform="matrix(0.2 0 0 0.2 304.924 1933)">
-   <path d="m74.8535 28.3203c34.8145 0 63.623-28.8086 63.623-63.5742 0-34.8145-28.8574-63.623-63.6719-63.623-34.7656 0-63.5254 28.8086-63.5254 63.623 0 34.7656 28.8086 63.5742 63.5742 63.5742Zm0-9.08203c-30.1758 0-54.4434-24.3164-54.4434-54.4922 0-30.2246 24.2188-54.4922 54.3945-54.4922 30.2246 0 54.541 24.2676 54.541 54.4922 0 30.1758-24.2676 54.4922-54.4922 54.4922Zm-28.8574-54.4922c0 2.58789 1.85547 4.39453 4.58984 4.39453h19.7266v19.7754c0 2.68555 1.85547 4.58984 4.44336 4.58984 2.68555 0 4.54102-1.85547 4.54102-4.58984v-19.7754h19.7754c2.68555 0 4.58984-1.80664 4.58984-4.39453 0-2.73438-1.85547-4.58984-4.58984-4.58984h-19.7754v-19.7266c0-2.73438-1.85547-4.63867-4.54102-4.63867-2.58789 0-4.44336 1.9043-4.44336 4.63867v19.7266h-19.7266c-2.73438 0-4.58984 1.85547-4.58984 4.58984Z"/>
+   <path d="m74.8535 28.3203c35.1074 0 63.623-28.4668 63.623-63.5742s-28.5156-63.623-63.623-63.623-63.5742 28.5156-63.5742 63.623 28.4668 63.5742 63.5742 63.5742Zm0-9.08203c-30.127 0-54.4922-24.3652-54.4922-54.4922s24.3652-54.4922 54.4922-54.4922 54.4922 24.3652 54.4922 54.4922-24.3652 54.4922-54.4922 54.4922Zm-28.8574-54.4922c0 2.58789 1.85547 4.39453 4.58984 4.39453h19.7266v19.7754c0 2.68555 1.85547 4.58984 4.44336 4.58984 2.68555 0 4.54102-1.85547 4.54102-4.58984v-19.7754h19.7754c2.68555 0 4.58984-1.80664 4.58984-4.39453 0-2.73438-1.85547-4.58984-4.58984-4.58984h-19.7754v-19.7266c0-2.73438-1.85547-4.63867-4.54102-4.63867-2.58789 0-4.44336 1.9043-4.44336 4.63867v19.7266h-19.7266c-2.73438 0-4.58984 1.85547-4.58984 4.58984Z"/>
   </g>
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;font-weight:bold;" transform="matrix(1 0 0 1 263 1953)">Design Variations</text>
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 1971)">Symbols are supported in up to nine weights and three scales.</text>
@@ -107,8 +107,8 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;font-weight:bold;" transform="matrix(1 0 0 1 1289 1953)">Exporting</text>
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 1289 1971)">Symbols should be outlined when exporting to ensure the</text>
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 1289 1989)">design is preserved when submitting to Xcode.</text>
-  <text id="template-version" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1933)">Template v.5.0</text>
-  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1951)">Requires Xcode 15 or greater</text>
+  <text id="template-version" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1933)">Template v.6.0</text>
+  <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1951)">Requires Xcode 16 or greater</text>
   <text id="descriptive-name" style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1969)">Generated from cupcake</text>
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;text-anchor:end;" transform="matrix(1 0 0 1 3036 1987)">Typeset at 100.0 points</text>
   <text style="stroke:none;fill:black;font-family:sans-serif;font-size:13;" transform="matrix(1 0 0 1 263 726)">Small</text>
@@ -131,12 +131,12 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
   </g>
   <line id="Baseline-L" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1556" y2="1556"/>
   <line id="Capline-L" style="fill:none;stroke:#27AAE1;opacity:1;stroke-width:0.5;" x1="263" x2="3036" y1="1485.54" y2="1485.54"/>
-  <line id="left-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="515.611" x2="515.611" y1="600.785" y2="720.121"/>
-  <line id="right-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="603.811" x2="603.811" y1="600.785" y2="720.121"/>
-  <line id="left-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1403.59" x2="1403.59" y1="600.785" y2="720.121"/>
-  <line id="right-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1496.09" x2="1496.09" y1="600.785" y2="720.121"/>
-  <line id="left-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2884.6" x2="2884.6" y1="600.785" y2="720.121"/>
   <line id="right-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2982.2" x2="2982.2" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Black-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="2884.6" x2="2884.6" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1496.09" x2="1496.09" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Regular-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="1403.59" x2="1403.59" y1="600.785" y2="720.121"/>
+  <line id="right-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="603.811" x2="603.811" y1="600.785" y2="720.121"/>
+  <line id="left-margin-Ultralight-S" style="fill:none;stroke:#00AEEF;stroke-width:0.5;opacity:1.0;" x1="515.611" x2="515.611" y1="600.785" y2="720.121"/>
  </g>
  <g id="Symbols">
   <g id="Black-S" transform="matrix(1 0 0 1 2884.6 696)">
