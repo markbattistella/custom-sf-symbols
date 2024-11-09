@@ -5,26 +5,26 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3300 2200">
  <!--glyph: "", point size: 100.0, font version: "20.0d10e1", template writer version: "138.0.0"-->
- <style>.monochrome-0 {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.monochrome-1 {-sfsymbols-motion-group:4;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.monochrome-2 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.monochrome-3 {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.monochrome-4 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.monochrome-5 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-2e07704c69b3abbe}
+ <style>.monochrome-0 {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.monochrome-1 {-sfsymbols-motion-group:4;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.monochrome-2 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.monochrome-3 {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.monochrome-4 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:1;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.monochrome-5 {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:2ba30f57ba772abe}
 
-.multicolor-0:black {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.multicolor-1:custom {fill:#FF8201;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.multicolor-2:tintColor {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.multicolor-3:systemYellowColor {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.multicolor-4:custom {fill:#C9FFF8;-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.multicolor-5:custom {fill:#FFF5CE;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-2e07704c69b3abbe}
+.multicolor-0:black {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.multicolor-1:custom {fill:#FF8201;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.multicolor-2:tintColor {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.multicolor-3:systemYellowColor {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.multicolor-4:systemMintColor {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.multicolor-5:white {opacity:0.4;-sfsymbols-motion-group:0;-sfsymbols-layer-tags:2ba30f57ba772abe}
 
-.hierarchical-0:secondary {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.hierarchical-1:secondary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.hierarchical-2:primary {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.hierarchical-3:primary {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.hierarchical-4:primary {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:-2e07704c69b3abbe}
-.hierarchical-5:primary {-sfsymbols-motion-group:0;-sfsymbols-layer-tags:-2e07704c69b3abbe}
+.hierarchical-0:tertiary {-sfsymbols-motion-group:5;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.hierarchical-1:tertiary {-sfsymbols-clear-behind:true;-sfsymbols-motion-group:4;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.hierarchical-2:primary {opacity:0.0;-sfsymbols-clear-behind:true;-sfsymbols-motion-group:3;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.hierarchical-3:primary {-sfsymbols-motion-group:2;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.hierarchical-4:secondary {-sfsymbols-motion-group:1;-sfsymbols-layer-tags:2ba30f57ba772abe}
+.hierarchical-5:primary {-sfsymbols-motion-group:0;-sfsymbols-layer-tags:2ba30f57ba772abe}
 
 .SFSymbolsPreviewWireframe {fill:none;opacity:1.0;stroke:black;stroke-width:0.5}
 </style>
@@ -104,28 +104,28 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
  </g>
  <g id="Symbols">
   <g id="Black-S" transform="matrix(1 0 0 1 2884.6 696)">
-   <path class="monochrome-0 multicolor-0:black hierarchical-0:secondary SFSymbolsPreviewWireframe" d="M64.2-2.1C62-2.1 60.2-3.9 60.2-6.1L60.2-9.9C60.2-12.1 62-13.9 64.2-13.9C66.4-13.9 68.2-12.1 68.2-9.9L68.2-6.1C68.2-3.9 66.4-2.1 64.2-2.1ZM32.7-2.1C30.5-2.1 28.7-3.9 28.7-6.1L28.7-9.9C28.7-12.1 30.5-13.9 32.7-13.9C34.9-13.9 36.7-12.1 36.7-9.9L36.7-6.1C36.7-3.9 34.9-2.1 32.7-2.1Z"/>
-   <path class="monochrome-1 multicolor-1:custom hierarchical-1:secondary SFSymbolsPreviewWireframe" d="M69.5-9.5L27.8-9.5C23.9-9.5 20.6-12.7 20.6-16.7L21.8-61.4C21.8-65.3 25-68.6 29-68.6L68.2-68.6C72.1-68.6 75.4-65.4 75.4-61.4L76.6-16.7C76.7-12.8 73.5-9.5 69.5-9.5Z"/>
-   <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary SFSymbolsPreviewWireframe" d="M64.2-16.2C62-16.2 60.1-18 60.1-20.3C60.1-22.6 61.9-24.4 64.2-24.4C66.4-24.4 68.3-22.6 68.3-20.3C68.3-18 66.4-16.2 64.2-16.2ZM32.7-16.2C30.5-16.2 28.6-18 28.6-20.3C28.6-22.6 30.4-24.4 32.7-24.4C34.9-24.4 36.8-22.6 36.8-20.3C36.8-18 35-16.2 32.7-16.2Z"/>
-   <path class="monochrome-3 multicolor-3:systemYellowColor hierarchical-3:primary SFSymbolsPreviewWireframe" d="M64.2-18.2C63.1-18.2 62.2-19.1 62.2-20.2C62.2-21.3 63.1-22.2 64.2-22.2C65.3-22.2 66.2-21.3 66.2-20.2C66.2-19.1 65.3-18.2 64.2-18.2ZM32.7-18.2C31.6-18.2 30.7-19.1 30.7-20.2C30.7-21.3 31.6-22.2 32.7-22.2C33.8-22.2 34.7-21.3 34.7-20.2C34.8-19.1 33.9-18.2 32.7-18.2Z"/>
-   <path class="monochrome-4 multicolor-4:custom hierarchical-4:primary SFSymbolsPreviewWireframe" d="M45.8-30.8L27.3-30.8C26.4-30.8 25.7-31.5 25.7-32.4L26.1-52.6C26.1-53.5 26.8-54.2 27.7-54.2L45.8-54.2C46.7-54.2 47.4-53.5 47.4-52.6L47.4-32.4C47.4-31.6 46.7-30.8 45.8-30.8ZM51.4-30.8L69.9-30.8C70.8-30.8 71.5-31.5 71.5-32.4L71.1-52.6C71.1-53.5 70.4-54.2 69.5-54.2L51.4-54.2C50.5-54.2 49.8-53.5 49.8-52.6L49.8-32.4C49.8-31.6 50.5-30.8 51.4-30.8Z"/>
-   <path class="monochrome-5 multicolor-5:custom hierarchical-5:primary SFSymbolsPreviewWireframe" d="M71.4-58.2L25.7-58.2L25.7-61.3C25.7-63.1 27.1-64.4 28.8-64.4L68.2-64.4C70-64.4 71.3-63 71.3-61.3L71.4-58.2Z"/>
+   <path class="monochrome-0 multicolor-0:black hierarchical-0:tertiary SFSymbolsPreviewWireframe" d="M65.4-2C63.2-2 61.3-3.8 61.3-6.1L61.3-10C61.3-12.2 63.1-14.1 65.4-14.1C67.7-14.1 69.5-12.3 69.5-10L69.5-6.1C69.4-3.8 67.6-2 65.4-2ZM33.1-2C30.9-2 29-3.8 29-6.1L29-10C29-12.2 30.8-14.1 33.1-14.1C35.4-14.1 37.2-12.3 37.2-10L37.2-6.1C37.2-3.8 35.4-2 33.1-2Z"/>
+   <path class="monochrome-1 multicolor-1:custom hierarchical-1:tertiary SFSymbolsPreviewWireframe" d="M70.8-9.5L28.2-9.5C24.2-9.5 20.8-12.8 20.8-16.9L22.1-62.6C22.1-66.6 25.4-70 29.5-70L69.6-70C73.6-70 77-66.7 77-62.6L78.3-16.9C78.2-12.9 74.8-9.5 70.8-9.5Z"/>
+   <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary SFSymbolsPreviewWireframe" d="M69.6-20.6C69.6-18.3 67.7-16.4 65.4-16.4C63.1-16.4 61.2-18.3 61.2-20.6C61.2-22.9 63.1-24.8 65.4-24.8C67.7-24.8 69.6-22.9 69.6-20.6ZM37.4-20.6C37.4-18.3 35.5-16.4 33.2-16.4C30.9-16.4 29-18.3 29-20.6C29-22.9 30.9-24.8 33.2-24.8C35.5-24.8 37.4-22.9 37.4-20.6Z"/>
+   <path class="monochrome-3 multicolor-3:systemYellowColor hierarchical-3:primary SFSymbolsPreviewWireframe" d="M67.4-20.5C67.4-19.4 66.4-18.4 65.3-18.4C64.2-18.4 63.2-19.4 63.2-20.5C63.2-21.6 64.2-22.6 65.3-22.6C66.4-22.6 67.4-21.6 67.4-20.5ZM33.1-18.5C32-18.5 31-19.4 31-20.6C31-21.8 31.9-22.7 33.1-22.7C34.2-22.7 35.2-21.8 35.2-20.6C35.3-19.4 34.4-18.5 33.1-18.5Z"/>
+   <path class="monochrome-4 multicolor-4:systemMintColor hierarchical-4:secondary SFSymbolsPreviewWireframe" d="M46.5-31.3L27.6-31.3C26.7-31.3 26-32 26-32.9L26.4-53.5C26.4-54.4 27.1-55.1 28-55.1L46.5-55.1C47.4-55.1 48.1-54.4 48.1-53.5L48.1-33C48.1-32.2 47.5-31.3 46.5-31.3ZM52.3-31.3L71.2-31.3C72.1-31.3 72.8-32 72.8-32.9L72.4-53.5C72.4-54.4 71.7-55.1 70.8-55.1L52.3-55.1C51.4-55.1 50.7-54.4 50.7-53.5L50.7-33C50.7-32.2 51.3-31.3 52.3-31.3Z"/>
+   <path class="monochrome-5 multicolor-5:white hierarchical-5:primary SFSymbolsPreviewWireframe" d="M72.7-59.4L26-59.4L26-62.6C26-64.4 27.4-65.8 29.2-65.8L69.5-65.8C71.3-65.8 72.7-64.4 72.7-62.6L72.7-59.4Z"/>
   </g>
   <g id="Regular-S" transform="matrix(1 0 0 1 1403.59 696)">
-   <path class="monochrome-0 multicolor-0:black hierarchical-0:secondary SFSymbolsPreviewWireframe" d="M62.2-2.1C60-2.1 58.2-3.9 58.2-6.1L58.2-9.9C58.2-12.1 60-13.9 62.2-13.9C64.4-13.9 66.2-12.1 66.2-9.9L66.2-6.1C66.2-3.9 64.4-2.1 62.2-2.1ZM30.7-2.1C28.5-2.1 26.7-3.9 26.7-6.1L26.7-9.9C26.7-12.1 28.5-13.9 30.7-13.9C32.9-13.9 34.7-12.1 34.7-9.9L34.7-6.1C34.7-3.9 32.9-2.1 30.7-2.1Z"/>
-   <path class="monochrome-1 multicolor-1:custom hierarchical-1:secondary SFSymbolsPreviewWireframe" d="M67.5-9.5L25.8-9.5C21.9-9.5 18.6-12.7 18.6-16.7L19.8-61.4C19.8-65.3 23-68.6 27-68.6L66.2-68.6C70.1-68.6 73.4-65.4 73.4-61.4L74.6-16.7C74.7-12.8 71.5-9.5 67.5-9.5Z"/>
-   <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary SFSymbolsPreviewWireframe" d="M62.2-16.2C60-16.2 58.1-18 58.1-20.3C58.1-22.6 59.9-24.4 62.2-24.4C64.4-24.4 66.3-22.6 66.3-20.3C66.3-18 64.4-16.2 62.2-16.2ZM30.7-16.2C28.5-16.2 26.6-18 26.6-20.3C26.6-22.6 28.4-24.4 30.7-24.4C32.9-24.4 34.8-22.6 34.8-20.3C34.8-18 33-16.2 30.7-16.2Z"/>
-   <path class="monochrome-3 multicolor-3:systemYellowColor hierarchical-3:primary SFSymbolsPreviewWireframe" d="M62.2-18.2C61.1-18.2 60.2-19.1 60.2-20.2C60.2-21.3 61.1-22.2 62.2-22.2C63.3-22.2 64.2-21.3 64.2-20.2C64.2-19.1 63.3-18.2 62.2-18.2ZM30.7-18.2C29.6-18.2 28.7-19.1 28.7-20.2C28.7-21.3 29.6-22.2 30.7-22.2C31.8-22.2 32.7-21.3 32.7-20.2C32.8-19.1 31.9-18.2 30.7-18.2Z"/>
-   <path class="monochrome-4 multicolor-4:custom hierarchical-4:primary SFSymbolsPreviewWireframe" d="M43.8-30.8L25.3-30.8C24.4-30.8 23.7-31.5 23.7-32.4L24.1-52.6C24.1-53.5 24.8-54.2 25.7-54.2L43.8-54.2C44.7-54.2 45.4-53.5 45.4-52.6L45.4-32.4C45.4-31.6 44.7-30.8 43.8-30.8ZM49.4-30.8L67.9-30.8C68.8-30.8 69.5-31.5 69.5-32.4L69.1-52.6C69.1-53.5 68.4-54.2 67.5-54.2L49.4-54.2C48.5-54.2 47.8-53.5 47.8-52.6L47.8-32.4C47.8-31.6 48.5-30.8 49.4-30.8Z"/>
-   <path class="monochrome-5 multicolor-5:custom hierarchical-5:primary SFSymbolsPreviewWireframe" d="M69.4-58.2L23.7-58.2L23.7-61.3C23.7-63.1 25.1-64.4 26.8-64.4L66.2-64.4C68-64.4 69.3-63 69.3-61.3L69.4-58.2Z"/>
+   <path class="monochrome-0 multicolor-0:black hierarchical-0:tertiary SFSymbolsPreviewWireframe" d="M62.4-1C60.2-1 58.3-2.8 58.3-5.1L58.3-9C58.3-11.2 60.1-13.1 62.4-13.1C64.7-13.1 66.5-11.3 66.5-9L66.5-5.1C66.4-2.8 64.6-1 62.4-1ZM30.1-1C27.9-1 26-2.8 26-5.1L26-9C26-11.2 27.8-13.1 30.1-13.1C32.4-13.1 34.2-11.3 34.2-9L34.2-5.1C34.2-2.8 32.4-1 30.1-1Z"/>
+   <path class="monochrome-1 multicolor-1:custom hierarchical-1:tertiary SFSymbolsPreviewWireframe" d="M67.8-8.5L25.2-8.5C21.2-8.5 17.8-11.8 17.8-15.9L19.1-61.6C19.1-65.6 22.4-69 26.5-69L66.6-69C70.6-69 74-65.7 74-61.6L75.3-15.9C75.2-11.9 71.8-8.5 67.8-8.5Z"/>
+   <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary SFSymbolsPreviewWireframe" d="M66.6-19.6C66.6-17.3 64.7-15.4 62.4-15.4C60.1-15.4 58.2-17.3 58.2-19.6C58.2-21.9 60.1-23.8 62.4-23.8C64.7-23.8 66.6-21.9 66.6-19.6ZM34.4-19.6C34.4-17.3 32.5-15.4 30.2-15.4C27.9-15.4 26-17.3 26-19.6C26-21.9 27.9-23.8 30.2-23.8C32.5-23.8 34.4-21.9 34.4-19.6Z"/>
+   <path class="monochrome-3 multicolor-3:systemYellowColor hierarchical-3:primary SFSymbolsPreviewWireframe" d="M64.4-19.5C64.4-18.4 63.4-17.4 62.3-17.4C61.2-17.4 60.2-18.4 60.2-19.5C60.2-20.6 61.2-21.6 62.3-21.6C63.4-21.6 64.4-20.6 64.4-19.5ZM30.1-17.5C29-17.5 28-18.4 28-19.6C28-20.8 28.9-21.7 30.1-21.7C31.2-21.7 32.2-20.8 32.2-19.6C32.3-18.4 31.4-17.5 30.1-17.5Z"/>
+   <path class="monochrome-4 multicolor-4:systemMintColor hierarchical-4:secondary SFSymbolsPreviewWireframe" d="M43.5-30.3L24.6-30.3C23.7-30.3 23-31 23-31.9L23.4-52.5C23.4-53.4 24.1-54.1 25-54.1L43.5-54.1C44.4-54.1 45.1-53.4 45.1-52.5L45.1-32C45.1-31.2 44.5-30.3 43.5-30.3ZM49.3-30.3L68.2-30.3C69.1-30.3 69.8-31 69.8-31.9L69.4-52.5C69.4-53.4 68.7-54.1 67.8-54.1L49.3-54.1C48.4-54.1 47.7-53.4 47.7-52.5L47.7-32C47.7-31.2 48.3-30.3 49.3-30.3Z"/>
+   <path class="monochrome-5 multicolor-5:white hierarchical-5:primary SFSymbolsPreviewWireframe" d="M69.7-58.4L23-58.4L23-61.6C23-63.4 24.4-64.8 26.2-64.8L66.5-64.8C68.3-64.8 69.7-63.4 69.7-61.6L69.7-58.4Z"/>
   </g>
   <g id="Ultralight-S" transform="matrix(1 0 0 1 515.611 696)">
-   <path class="monochrome-0 multicolor-0:black hierarchical-0:secondary SFSymbolsPreviewWireframe" d="M60.2-2.1C58-2.1 56.2-3.9 56.2-6.1L56.2-9.9C56.2-12.1 58-13.9 60.2-13.9C62.4-13.9 64.2-12.1 64.2-9.9L64.2-6.1C64.2-3.9 62.4-2.1 60.2-2.1ZM28.7-2.1C26.5-2.1 24.7-3.9 24.7-6.1L24.7-9.9C24.7-12.1 26.5-13.9 28.7-13.9C30.9-13.9 32.7-12.1 32.7-9.9L32.7-6.1C32.7-3.9 30.9-2.1 28.7-2.1Z"/>
-   <path class="monochrome-1 multicolor-1:custom hierarchical-1:secondary SFSymbolsPreviewWireframe" d="M65.5-9.5L23.8-9.5C19.9-9.5 16.6-12.7 16.6-16.7L17.8-61.4C17.8-65.3 21-68.6 25-68.6L64.2-68.6C68.1-68.6 71.4-65.4 71.4-61.4L72.6-16.7C72.7-12.8 69.5-9.5 65.5-9.5Z"/>
-   <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary SFSymbolsPreviewWireframe" d="M60.2-16.2C58-16.2 56.1-18 56.1-20.3C56.1-22.6 57.9-24.4 60.2-24.4C62.5-24.4 64.3-22.6 64.3-20.3C64.3-18 62.4-16.2 60.2-16.2ZM28.7-16.2C26.5-16.2 24.6-18 24.6-20.3C24.6-22.6 26.4-24.4 28.7-24.4C31-24.4 32.8-22.6 32.8-20.3C32.8-18 31-16.2 28.7-16.2Z"/>
-   <path class="monochrome-3 multicolor-3:systemYellowColor hierarchical-3:primary SFSymbolsPreviewWireframe" d="M60.2-18.2C59.1-18.2 58.2-19.1 58.2-20.2C58.2-21.3 59.1-22.2 60.2-22.2C61.3-22.2 62.2-21.3 62.2-20.2C62.2-19.1 61.3-18.2 60.2-18.2ZM28.7-18.2C27.6-18.2 26.7-19.1 26.7-20.2C26.7-21.3 27.6-22.2 28.7-22.2C29.8-22.2 30.7-21.3 30.7-20.2C30.8-19.1 29.9-18.2 28.7-18.2Z"/>
-   <path class="monochrome-4 multicolor-4:custom hierarchical-4:primary SFSymbolsPreviewWireframe" d="M41.8-30.8L23.3-30.8C22.4-30.8 21.7-31.5 21.7-32.4L22.1-52.6C22.1-53.5 22.8-54.2 23.7-54.2L41.8-54.2C42.7-54.2 43.4-53.5 43.4-52.6L43.4-32.4C43.4-31.6 42.7-30.8 41.8-30.8ZM47.4-30.8L65.9-30.8C66.8-30.8 67.5-31.5 67.5-32.4L67.1-52.6C67.1-53.5 66.4-54.2 65.5-54.2L47.4-54.2C46.5-54.2 45.8-53.5 45.8-52.6L45.8-32.4C45.8-31.6 46.5-30.8 47.4-30.8Z"/>
-   <path class="monochrome-5 multicolor-5:custom hierarchical-5:primary SFSymbolsPreviewWireframe" d="M67.4-58.2L21.7-58.2L21.7-61.3C21.7-63.1 23.1-64.4 24.8-64.4L64.2-64.4C66-64.4 67.3-63 67.3-61.3L67.4-58.2Z"/>
+   <path class="monochrome-0 multicolor-0:black hierarchical-0:tertiary SFSymbolsPreviewWireframe" d="M60.4-1C58.2-1 56.3-2.8 56.3-5.1L56.3-9C56.3-11.2 58.1-13.1 60.4-13.1C62.7-13.1 64.5-11.3 64.5-9L64.5-5.1C64.4-2.8 62.6-1 60.4-1ZM28.1-1C25.9-1 24-2.8 24-5.1L24-9C24-11.2 25.8-13.1 28.1-13.1C30.4-13.1 32.2-11.3 32.2-9L32.2-5.1C32.2-2.8 30.4-1 28.1-1Z"/>
+   <path class="monochrome-1 multicolor-1:custom hierarchical-1:tertiary SFSymbolsPreviewWireframe" d="M65.8-8.5L23.2-8.5C19.2-8.5 15.8-11.8 15.8-15.9L17.1-61.6C17.1-65.6 20.4-69 24.5-69L64.4-69C68.4-69 71.8-65.7 71.8-61.6L73.1-15.9C73.2-11.9 69.8-8.5 65.8-8.5Z"/>
+   <path class="monochrome-2 multicolor-2:tintColor hierarchical-2:primary SFSymbolsPreviewWireframe" d="M64.6-19.6C64.6-17.3 62.7-15.4 60.4-15.4C58.1-15.4 56.2-17.3 56.2-19.6C56.2-21.9 58.1-23.8 60.4-23.8C62.7-23.8 64.6-21.9 64.6-19.6ZM32.4-19.6C32.4-17.3 30.5-15.4 28.2-15.4C25.9-15.4 24-17.3 24-19.6C24-21.9 25.9-23.8 28.2-23.8C30.5-23.8 32.4-21.9 32.4-19.6Z"/>
+   <path class="monochrome-3 multicolor-3:systemYellowColor hierarchical-3:primary SFSymbolsPreviewWireframe" d="M62.4-19.5C62.4-18.4 61.4-17.4 60.3-17.4C59.2-17.4 58.2-18.4 58.2-19.5C58.2-20.6 59.2-21.6 60.3-21.6C61.4-21.6 62.4-20.6 62.4-19.5ZM28.1-17.5C27-17.5 26-18.4 26-19.6C26-20.8 26.9-21.7 28.1-21.7C29.2-21.7 30.2-20.8 30.2-19.6C30.3-18.4 29.4-17.5 28.1-17.5Z"/>
+   <path class="monochrome-4 multicolor-4:systemMintColor hierarchical-4:secondary SFSymbolsPreviewWireframe" d="M41.5-30.3L22.6-30.3C21.7-30.3 21-31 21-31.9L21.4-52.5C21.4-53.4 22.1-54.1 23-54.1L41.5-54.1C42.4-54.1 43.1-53.4 43.1-52.5L43.1-32C43.1-31.2 42.5-30.3 41.5-30.3ZM47.3-30.3L66.2-30.3C67.1-30.3 67.8-31 67.8-31.9L67.4-52.5C67.4-53.4 66.7-54.1 65.8-54.1L47.3-54.1C46.4-54.1 45.7-53.4 45.7-52.5L45.7-32C45.7-31.2 46.3-30.3 47.3-30.3Z"/>
+   <path class="monochrome-5 multicolor-5:white hierarchical-5:primary SFSymbolsPreviewWireframe" d="M67.7-58.4L21-58.4L21-61.6C21-63.4 22.4-64.8 24.2-64.8L64.4-64.8C66.2-64.8 67.6-63.4 67.6-61.6L67.7-58.4Z"/>
   </g>
  </g>
 </svg>
